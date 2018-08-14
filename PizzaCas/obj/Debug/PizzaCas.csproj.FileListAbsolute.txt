@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\PizzaCas\PizzaCas\bin\Debug\Database1.mdf
+C:\Users\asus\source\repos\PizzaCas\PizzaCas\bin\Debug\Database1_log.ldf
+C:\Users\asus\source\repos\PizzaCas\PizzaCas\bin\Debug\PizzaCas.exe.config
+C:\Users\asus\source\repos\PizzaCas\PizzaCas\bin\Debug\PizzaCas.exe
+C:\Users\asus\source\repos\PizzaCas\PizzaCas\bin\Debug\PizzaCas.pdb
+C:\Users\asus\source\repos\PizzaCas\PizzaCas\obj\Debug\PizzaCas.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\PizzaCas\PizzaCas\obj\Debug\PizzaCas.Form1.resources
+C:\Users\asus\source\repos\PizzaCas\PizzaCas\obj\Debug\PizzaCas.Properties.Resources.resources
+C:\Users\asus\source\repos\PizzaCas\PizzaCas\obj\Debug\PizzaCas.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\PizzaCas\PizzaCas\obj\Debug\PizzaCas.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\PizzaCas\PizzaCas\obj\Debug\PizzaCas.exe
+C:\Users\asus\source\repos\PizzaCas\PizzaCas\obj\Debug\PizzaCas.pdb
+C:\Users\asus\source\repos\PizzaCas\PizzaCas\obj\Debug\PizzaCas.PizzaSales.resources
